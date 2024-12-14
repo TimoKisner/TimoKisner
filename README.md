@@ -3,8 +3,8 @@
 <h2>👨‍💻 Informationstechnologie-Projekte:</h2>
 
 - <b>osTicket (Ticketsystem IT-Support)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/TimoKisner/osticket-prereqs)
-  - [osTicket: Linking an Email to osTicket](https://github.com/TimoKisner/osticket-email-linked)
+  - [osTicket: Voraussetzungen und Installation](https://github.com/TimoKisner/osticket-prereqs)
+  - [osTicket: Email an osTicket/HelpDesk knüpfen](https://github.com/TimoKisner/osticket-email-linked)
 
 <h2>🤳Kontaktieren Sie mich</h2>
 
