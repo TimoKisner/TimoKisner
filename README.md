@@ -4,6 +4,7 @@
 
 - <b>osTicket (Ticketsystem IT-Support)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TimoKisner/osticket-prereqs)
+  - [osTicket: Linking an Email to osTicket](https://github.com/TimoKisner/osticket-email-linked)
 
 <h2>🤳Kontaktieren Sie mich</h2>
 
