@@ -1,11 +1,11 @@
-<h1>Hi, I'm Timo, an IT Professional☺</h1>
+<h1>Hi👋🏼, ich bin Timo, ein IT-Fachmann.☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Informationstechnologie-Projekte:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Ticketsystem IT-Support)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳Kontaktieren Sie mich</h2>
 
 [<img align="left" alt="Timo | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
 
