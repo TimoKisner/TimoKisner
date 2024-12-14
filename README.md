@@ -3,7 +3,7 @@
 <h2>👨‍💻 Informationstechnologie-Projekte:</h2>
 
 - <b>osTicket (Ticketsystem IT-Support)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/TimoKisner/osticket-prereqs)
 
 <h2>🤳Kontaktieren Sie mich</h2>
 
