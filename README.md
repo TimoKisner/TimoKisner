@@ -7,7 +7,7 @@
   - [osTicket: Email an osTicket/HelpDesk knüpfen](https://github.com/TimoKisner/osticket-email-linked)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TimoKisner/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TimoKisner/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TimoKisner/Ausfuehren_von_Aktivitaeten_im_Netzwerk)
 
 <h2>🤳Kontaktieren Sie mich</h2>
 
